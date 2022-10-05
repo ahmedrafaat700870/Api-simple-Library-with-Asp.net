@@ -1,0 +1,1 @@
+﻿global using RepositoriesPatternWtihUnitOfWrok.EF.Models;
